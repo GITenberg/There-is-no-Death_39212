@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '39905'
     url: http://www.gutenberg.org/2009/agents/39905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39212#There-is-no-Death
 gutenberg_issued: '2012-03-20'
 gutenberg_type: Text
 identifiers:
